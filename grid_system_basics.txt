@@ -1,0 +1,18 @@
+<div class="row">
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:red; border: 1px solid black;">
+        
+    Hello
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:red; border: 1px solid black;">
+        
+    Hello
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:red; border: 1px solid black;">
+        
+    Hello
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:red; border: 1px solid black;">
+        
+    Hello
+    </div>
+</div>
